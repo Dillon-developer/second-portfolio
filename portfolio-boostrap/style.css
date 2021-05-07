@@ -1,0 +1,60 @@
+/*button class visual instructions*/
+
+.btn{
+  display: inline-block;
+  font-family: Verdana, Geneva, Tahoma, sans-serif; 
+  font-size: 16px;
+  text-align: center;
+  text-decoration: none;
+  margin: 10px;
+  padding: 6px 12px;
+  border-radius: 6px;
+}
+
+.btn-lets-code{
+   color: #fff;
+  background-color: #ffa32b9d;
+  border-color: #f5923677;
+  margin-right: 20px;
+}
+
+.btn-lets-code:hover{
+  background-color: #ffa32b;
+  border-color: #f59236;
+}
+
+/*commands for the button location*/
+nav{
+    text-align: center;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+
+body{
+  background-color: #000000;
+  
+  }
+/*commands for the word "Software"*/
+h1{
+  color:#fff;
+  font-size: 100px;
+  text-align: center;
+  margin-right: 150px;
+  margin-bottom: -120px;
+  }
+/*commands for the word "Engineering;"*/
+h2{
+  color: rgb(114, 114, 114);
+  font-size: 100px;
+  text-align: center;
+  margin-bottom: -10px;
+  }
+/*commands for the words "Design By: Dillon Lucas*/
+h3{
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+  text-align: center;
+  margin-right: -110px;
+  margin-top: 0px;
+}

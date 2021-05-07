@@ -1,0 +1,34 @@
+
+.header {
+  font-size: 1000%;
+}
+
+iframe {
+  height: 20em;
+}
+
+
+@media only screen and (max-width:650px) {
+
+  iframe {
+    height: 20em;
+    width: 15em;
+  }
+
+  main {
+    display: flex;
+    flex-wrap: wrap-reverse;
+  }
+
+  .header {
+    font-size: 400%;
+  }
+
+  .form-btn {
+    display: flex; 
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    size: 100%;
+  }
+}
